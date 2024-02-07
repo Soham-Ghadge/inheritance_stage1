@@ -1,0 +1,1 @@
+# inheritance_stage1
